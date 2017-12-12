@@ -9,7 +9,10 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
 
+  def cobble=(cobble)
+    @cobble = cobble
+  end 
+
 end
 
 Shoe.new("Nike")
- 
