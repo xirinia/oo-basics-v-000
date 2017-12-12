@@ -17,4 +17,4 @@ class Shoe
 end
 
 Shoe.new("Nike")
-Shoe.color = "black"
+
