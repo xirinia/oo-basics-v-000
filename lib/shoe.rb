@@ -17,4 +17,4 @@ class Shoe
 end
 
 Shoe.new("Nike")
-Shoe.cobble
+Shoe.color = "black"
